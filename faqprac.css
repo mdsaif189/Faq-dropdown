@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+h1{
+   
+    padding: 10px;
+    margin: 10px 0 0 ;
+    color: rgb(7, 76, 6);
+   
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  font-size: 50px
+}
+#div1{
+  max-width: 900px;
+  margin: auto;
+ 
+ 
+
+}
+.ques{
+   margin: 10px;
+  
+ 
+}
+    div h2{
+       text-align: center;
+       padding: 15px;
+       cursor: pointer;
+       
+        background:linear-gradient(rgb(39, 3, 84), rgb(53, 11, 132), rgb(80, 9, 49),rgb(121, 4, 39), rgb(3, 95, 165));
+       color: aliceblue;
+    }
+
+    div p{
+       text-align: center;
+       padding: 20px;
+       background:linear-gradient(rgba(5, 18, 97, 0.533), rgb(65, 5, 73),rgb(32, 1, 71));
+       color: aliceblue;
+      
+        
+        
+
+    }
+    span{
+      float: right;
+      cursor: pointer;
+    }
+
+    p {  
+      display: none;}
+
+    
+
+    .show{
+      display: block !important;
+    }
